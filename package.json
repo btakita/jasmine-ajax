@@ -1,5 +1,5 @@
 {
-  "name": "jasmine-ajax",
+  "name": "btakita-jasmine-ajax",
   "description": "A library for faking Ajax responses in your Jasmine suite",
   "url": "https://github.com/pivotal/jasmine-flow",
   "author": "Pivotal Labs <info@pivotallabs.com>",
